@@ -13,9 +13,15 @@ products:
 
 HoloLens 2 Research Mode enables access to the raw streams on device (depth camera, gray-scale cameras, IMU).
 
+>HL2的 Research 模式允许访问 depth, gray-scale camera, IMU 数据
+
 By releasing the Research Mode API together with a set of tools and sample apps, we want to make it easier to use HoloLens 2 as a powerful Computer Vision and Robotics research device.
 
+> 本案例结合 Research Mode 的 API开发了一些案例，为 HL2 赋能，使其具备 CV 和 Robotic 能力。 
+
 The project was launched at ECCV 2020. We plan to extend it over time and welcome contributions from the research community.
+
+> 本项目开发于ECCV 2020
 
 # Contents
 

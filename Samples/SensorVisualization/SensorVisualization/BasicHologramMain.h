@@ -77,7 +77,7 @@ namespace BasicHologram
         virtual void OnDeviceRestored() = 0;
 
     protected:
-        std::shared_ptr<DX::DeviceResources>                        m_deviceResources;
+        std::shared_ptr<DX::DeviceResources>  m_deviceResources;
         winrt::Windows::Perception::Spatial::SpatialStationaryFrameOfReference m_stationaryReferenceFrame = nullptr;
 
     };
